@@ -1,9 +1,16 @@
 {
-  "name": "cli_businesscard",
-  "version": "1.0.0",
+  "name": "olivierk95",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
+  "bin": {
+    "olivierk95": "./index.js"
+  },
   "scripts": {
+    "prepublish": "npm run build",
+    "build": "node index.js",
+    "dev": "npm run build && node ./index.js",
+    "lint": "standard",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
