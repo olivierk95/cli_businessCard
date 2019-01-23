@@ -1,0 +1,26 @@
+{
+  "name": "cli_businesscard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivierk95/cli_businessCard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olivierk95/cli_businessCard/issues"
+  },
+  "homepage": "https://github.com/olivierk95/cli_businessCard#readme",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.2",
+    "got": "^9.6.0",
+    "gradient-string": "^1.2.0",
+    "term-grid": "^0.1.8"
+  }
+}
