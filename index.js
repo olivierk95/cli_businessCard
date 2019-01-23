@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 
 // Dependencies
 const boxen = require('boxen');
