@@ -1,5 +1,7 @@
 # `npx card` Olivier Keutgens
 
+Small resume you can foresee in the terminal just by typing a two-words command. 
+
 ## Usage
 
 Via npx:
