@@ -1,6 +1,6 @@
 {
-  "name": "olivierk95",
-  "version": "1.0.2",
+  "name": "cli_businesscard",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
